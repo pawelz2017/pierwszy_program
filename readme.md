@@ -5,11 +5,11 @@ Pierwszy program
 >#include <stdio.h>
 >
 >
-##/* komentarz
+## /* komentarz
 >komentarz
 >*/
 >
-#//komentarz pojedynczej linii
+# //komentarz pojedynczej linii
 >
 >int main()
 >{
