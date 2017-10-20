@@ -11,7 +11,10 @@ int main()
 {
 	puts("Pierwszy program");
 
-
+	putchar('\n');
+	putchar('\t');
+	putchar('\\');
+	putchar('\r');
 
 	return 0;
 }
