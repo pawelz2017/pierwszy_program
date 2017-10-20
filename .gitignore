@@ -1,1 +1,2 @@
-*.o     #ignoruj wszystkie skompilowane pliki
+ #ignoruj wszystkie skompilowane plik
+*.o
